@@ -1,0 +1,7 @@
+nodemon=live server
+work as live server
+
+express-handlebars works as template engine 
+body-parser = it handles the json formate document
+mysql- it connects our application with mysql server
+dotenv-it stores the constant variables
